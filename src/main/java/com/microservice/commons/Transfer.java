@@ -1,3 +1,5 @@
+package com.microservice.commons;
+
 import lombok.Data;
 
 import java.math.BigDecimal;
